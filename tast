@@ -1,0 +1,1674 @@
+.favorite {
+    width: 100%;
+    height: 410px;
+    display: flex;
+    justify-content: center;
+    .favorite-center {
+      width: 70%;
+      height: 100%;
+      padding: 10px;
+      border: 1px solid lightgrey;
+      border-radius: 15px;
+      .favorite-center-top {
+        width: 100%;
+        height: 80px;
+        display: flex;
+        flex-flow: row wrap;
+        .favorite-center-top-right {
+          width: 60%;
+          height: 100%;
+          display: flex;
+          flex-flow: row wrap;
+          justify-content: flex-end;
+          align-items: center;
+          h5 {
+            font-family: var(--font-family);
+            font-size: 30px;
+            font-weight: normal;
+          }
+        }
+        .favorite-center-top-left {
+          width: 40%;
+          height: 100%;
+          display: flex;
+          flex-flow: row wrap;
+          justify-content: flex-end;
+          align-items: center;
+          a {
+            text-decoration: none;
+            font-family: var(--font-family);
+            color: rgb(6, 160, 160);
+          }
+        }
+      }
+      .favorite-center-bottom {
+        width: 100%;
+        height: calc(100% - 80px);
+  
+        .swiper {
+          width: 100%;
+          height: 100%;
+        }
+  
+        .swiper-slide {
+          text-align: center;
+          font-size: 18px;
+          background: #fff;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          .swiper-slide-item{
+              width: 100%;
+              height: 100%;
+              .swiper-slide-item-first{
+                  width: 100%;
+                  height: 33%;
+                  margin-bottom: 1px;
+                  display: flex;
+                  flex-flow: row wrap;
+                  column-gap: 10px;
+                  align-items: center;
+                  img{
+                      width: 86px ;
+                      height: 86px;
+                  }
+                  span{
+                      font-family: var(--font-number);
+                      font-size: 40px;
+                      font-weight: bold;
+                      color: aqua;
+                  }
+                  p{
+                      width: 60%;
+                      
+                      font-family: var(--font-family);
+                      font-size: 12px;
+                      text-align: right;
+                      line-height: 25px;
+                      display: -webkit-box;
+                      -webkit-box-orient: vertical;
+                      -webkit-line-clamp: 2;
+                      overflow: hidden;
+                  }
+              }
+          }
+        }
+  
+        .swiper-slide img {
+          display: block;
+          width: 100%;
+          height: 100%;
+          object-fit: cover;
+        }
+      }
+    }
+  }
+  
+
+
+
+
+
+
+
+<!-- HTML !-->
+<button class="button-59" role="button">Button 59</button>
+
+/* CSS */
+.button-59 {
+  align-items: center;
+  background-color: #fff;
+  border: 2px solid #000;
+  box-sizing: border-box;
+  color: #000;
+  cursor: pointer;
+  display: inline-flex;
+  fill: #000;
+  font-family: Inter,sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  height: 48px;
+  justify-content: center;
+  letter-spacing: -.8px;
+  line-height: 24px;
+  min-width: 140px;
+  outline: 0;
+  padding: 0 17px;
+  text-align: center;
+  text-decoration: none;
+  transition: all .3s;
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+.button-59:focus {
+  color: #171e29;
+}
+
+.button-59:hover {
+  border-color: #06f;
+  color: #06f;
+  fill: #06f;
+}
+
+.button-59:active {
+  border-color: #06f;
+  color: #06f;
+  fill: #06f;
+}
+
+@media (min-width: 768px) {
+  .button-59 {
+    min-width: 170px;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+<div class="tecnolif3">
+
+<a   class="tecnolia"> تا۶۷٪تخفیف</a>
+
+</div>
+
+
+<div class="tecno-1">
+<img class="tecno-1-img" src="./imgs/tecno/imdecno.jpg" alt="">
+  <div class="tecno-11">
+    <a   class="tecnolia11"> ۶۷٪</a>
+  </div>
+</div>
+
+<div class="tecno-2">
+
+  <img class="tecno-2-img" src="./imgs/tecno/width50.webp" alt="">
+
+
+  </div>
+  <div class="tecno-22">
+
+    
+    <a   class="tecnolia22">۴۱٪</a>
+</div>
+<div class="tecno-3">
+  <img class="tecno-1-img" src="./imgs/tecno/imdecno.jpg" alt="">
+</div>
+<div class="tecno-33">
+
+  <a   class="tecnolia33"> ۶۷٪ </a>
+</div>
+
+<div class="tecno-4">
+
+  <img class="tecno-2-img" src="./imgs/tecno/width50.webp" alt="">
+
+
+
+</div>
+
+<div class="tecno-44">
+  <a   class="tecnolia44">۴۱٪</a>
+</div>
+
+</div>
+
+
+<!-- HTML !-->
+<button class="button-46" role="button">Button 46</button>
+
+/* CSS */
+.button-46 {
+  align-items: center;
+  background-color: rgba(240, 240, 240, 0.26);
+  border: 1px solid #DFDFDF;
+  border-radius: 16px;
+  box-sizing: border-box;
+  color: #000000;
+  cursor: pointer;
+  display: flex;
+  font-family: Inter, sans-serif;
+  font-size: 18px;
+  justify-content: center;
+  line-height: 28px;
+  max-width: 100%;
+  padding: 14px 22px;
+  text-decoration: none;
+  transition: all .2s;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  width: 100%;
+}
+
+.button-46:active,
+.button-46:hover {
+  outline: 0;
+}
+
+.button-46:hover {
+  background-color: #FFFFFF;
+  border-color: rgba(0, 0, 0, 0.19);
+}
+
+@media (min-width: 768px) {
+  .button-46 {
+    font-size: 20px;
+    min-width: 200px;
+    padding: 14px 16px;
+  }
+}
+
+
+
+
+<!-- HTML !-->
+<button class="button-88" role="button">Button 88</button>
+
+/* CSS */
+.button-88 {
+  display: flex;
+  align-items: center;
+  font-family: inherit;
+  font-weight: 500;
+  font-size: 16px;
+  padding: 0.7em 1.4em 0.7em 1.1em;
+  color: white;
+  background: #ad5389;
+  background: linear-gradient(0deg, rgba(20,167,62,1) 0%, rgba(102,247,113,1) 100%);
+  border: none;
+  box-shadow: 0 0.7em 1.5em -0.5em #14a73e98;
+  letter-spacing: 0.05em;
+  border-radius: 20em;
+  cursor: pointer;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.button-88:hover {
+  box-shadow: 0 0.5em 1.5em -0.5em #14a73e98;
+}
+
+.button-88:active {
+  box-shadow: 0 0.3em 1em -0.5em #14a73e98;
+}
+
+
+.ret1{
+  width: 50%;
+  height: 400px;
+  background-color: cadetblue;
+  margin-right: 15px;
+  display: flex;
+  
+  }
+  
+
+
+
+
+  | برندهای مختلف گوشی موبایل
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <!--# The third part of the root-->  
+<div class="Beta-three-endings" >
+<div class="Beta-three-endings-1">
+
+  <div class="Beta-three-endings-1-1">
+<div class="Beta-root-1">
+<h3 class="h3root-beta">با دیجی  کالا</h3>
+
+</div>
+<div class="Beta-root-2">
+  <a  class="aroot-beta"    href="https://careers.digikala.com/">فرصت های شغلی</a>
+</div>
+<div class="Beta-root-3">
+  <a   class="aroot-beta"    href="https://digikalapublic.whistleblowernetwork.net/setup">گزارش تخلف در دیجی کالا</a>
+
+</div>
+<div class="Beta-root-4">
+  <a class="aroot-beta"    href="https://careers.digikala.com/">فرصت های شغلی</a>
+</div>
+<div class="Beta-root-5">
+  <a class="aroot-beta"   href="https://digikalapublic.whistleblowernetwork.net/setup">گزارش تخلف در دیجی کالا</a>
+
+</div>
+<div class="Beta-root-6">
+   <a  class="aroot-beta"    href="https://careers.digikala.com/">فرصت های شغلی</a>
+</div>
+<div class="Beta-root-7">
+  <a    class="aroot-beta"     href="https://digikalapublic.whistleblowernetwork.net/setup">گزارش تخلف در دیجی کالا</a>
+
+</div>
+  </div>
+<div class="Beta-three-endings-1-2">
+
+  <div class="Beta-root-2">
+    <h3 class="h3root-beta-1">خدمات مشتریان</h3>
+    </div>
+
+    <div class="Beta2-root-2">
+      <a    class="aroot-beta-1"     href="https://digikalapublic.whistleblowernetwork.net/setup">شرایط استفاده</a>
+
+      </div>
+      <div class="Beta2-root-2">
+        <a    class="aroot-beta-1"     href="https://digikalapublic.whistleblowernetwork.net/setup">گزارش باگ</a>
+
+      </div>
+      <div class="Beta2-root-2">
+        <a    class="aroot-beta-1"     href="https://digikalapublic.whistleblowernetwork.net/setup">شرایط استفاده</a>
+
+      </div>
+      <div class="Beta2-root-2">
+        <a    class="aroot-beta-1"     href="https://digikalapublic.whistleblowernetwork.net/setup">گزارش باگ</a>
+
+      </div>
+      <div class="Beta2-root-2">
+        <a    class="aroot-beta-1"     href="https://digikalapublic.whistleblowernetwork.net/setup">شرایط استفاده</a>
+
+      </div>
+      <div class="Beta2-root-2">
+        <a    class="aroot-beta-1"     href="https://digikalapublic.whistleblowernetwork.net/setup">گزارش باگ</a>
+
+      </div>
+    
+</div>
+<div class="Beta-three-endings-1-3">
+<div class="h4root-beta-2">
+<h3>راهنمای خرید از دیجی کالا</h3>
+
+</div>
+
+
+<div class="aroot-beta-2">
+
+  <a href="">نحوه ثبت سفارش</a>
+</div>
+
+<div class="a1root-beta-2">
+  <a href="">شیوه های پرداخت</a>
+</div>
+
+<div class="aroot-beta-3">
+  <a href="">نحوه ثبت سفارش</a>
+
+
+</div>
+
+</div>
+
+  
+</div>
+  
+</div>
+<div class="Beta-three-endings-1-4">
+  <div class="h3root-beta-2">
+    <h3>همراه ما باشید!</h3>
+    
+    </div>
+
+<div class="h3root-beta-3icon">
+
+<div class="h3root-beta-3icon-1">
+
+  <img src="./imgs/h3root-beta-3icon/svgexport-31.svg" alt="">
+</div>
+<div class="h3root-beta-3icon-2">
+  <img src="./imgs/h3root-beta-3icon/svgexport-32.svg" alt="">
+
+</div>
+<div class="h3root-beta-3icon-3">
+<img src="./imgs/h3root-beta-3icon/svgexport-33.svg" alt="">
+
+</div>
+<div class="h3root-beta-3icon-4">
+
+  <img src="./imgs/h3root-beta-3icon/svgexport-34.svg" alt="">
+</div>
+
+<div class="h3root-beta-3icon-h3">
+  <h3>
+
+    با ثبت ایمیل، از جدید‌ترین تخفیف‌ها با‌خبر شوید
+
+  </h3>
+</div>
+
+
+<div class="h3root-email">
+<input  class="email-root"      type="email" placeholder="ایمیل  شما      ">
+
+
+
+
+
+</div>
+
+
+<div class="h3root-button">
+
+  <input  class="email-root-2" type="button" value="ثبت">
+</div>
+</div>
+
+
+</div>
+</div>
+
+</div>
+
+
+
+<!--# end-rigon-->  
+
+
+
+
+
+
+
+<style>
+.sw{
+
+  color:
+  d;
+}
+
+
+</style>
+
+
+
+
+
+<img src="./svg.amazing/svg-sliader-top/svgexport-17.svg" alt="">
+
+
+
+
+       
+<div class="price-silde1">
+  <img src="./svg.amazing/svg-sliader-top/svgexport-17.svg" alt="">
+  <a href="">۸,۷۹۹,۰۰۰</a>
+  </div>
+  
+  
+  <div class="percentage-slide1">
+  <a href=""> ۸,۹۹۹,۰۰۰</a>
+  <div class="line">
+  
+    <a href="">۱۱:۱۱:۱۱</a>
+  
+
+
+
+
+
+
+
+
+
+    آچار بکس مدل 234 مجموعه 46 سرم مو لاکچری کوین حجم 300 شامپو تقویت ده و میلی لیتر با خاصیت ترمیم کنند. فولیکا سازگار با موهای ارسال فردا ۲۹ ۲۳۹,۰۰۰ تومان مولتی اکتیو مناسب پوست های... عددی
+
+    swiper mySwiper-3-4
+
+
+
+    شگفت‌انگیزهای رو به اتمام
+
+    <img src="./img-miid-2/svgexport-24.svg" alt="">
+    .topـmiddle_siwpir-h-6{
+      position: relative;
+      
+          width: 40px;
+          height: 25px;
+          background-color: yellow;
+      }
+      v
+      
+
+
+      
+
+
+
+.order-li{
+  height: 100%;
+width: 1px;
+  display: flex;
+  background-color: rgb(124, 30, 30);
+  margin-right: 196px;
+
+
+
+
+  }
+
+  <img src="./img-top3-4/svgexport-34.svg" alt="">
+  <p>۹,۹۰۰,۰۰۰ </p>
+
+
+
+
+
+  img{
+              
+                     
+    width:25px !important ;
+
+    height: 25px !important; ;
+       }
+
+
+
+
+       <img src="./img-amazing/logo-top-2/star-2-svgrepo-com (2).svg" alt="">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  font-family: var(--font-family);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  <div class="bata-misilid">
+
+    <div class="red-top-svg">
+      <img src="./img-amazing/img-top-band-slider-2/PromotedIncredibleOffer (1).svg" alt="">
+    </div>
+        
+    <div class="maid-img">
+         <img src="./img-amazing/img-top-band-slider-2/b768c498548f320cb415224e808a4de9affba44d_1729425975.webp" alt="">
+    </div>
+
+<div class="band-p-1-1-1">
+
+  <p>کمد چند منظوره اعیان 
+  </p>
+</div>
+<div class="band-p-1-1-2">
+  
+</div>
+<div class="band-p-1-1-3">
+
+
+<p>   تنها دو عددباقی مانده
+</p>
+</div>
+
+
+
+<div class="svg-taikfif-slide-3-4-1">
+  <p>۳۳٪</p>
+
+
+  <div class="svg-percentage-slide-3-5-1">
+    <img src="./img-top3-4/svgexport-34.svg" alt="">
+
+       <p>۷,۴۳۷,۰۰۰</p>
+  </div>
+
+
+<div class="svg-percentage-slide-3-5-2">
+<p>۱۱,۱۰۰,۰۰۰</p>
+</div>
+
+
+
+
+
+<div class="svg-percentage-slide-3-5-4">
+<p>۰۱:۵۵:۵۰</p>
+</div>
+
+
+
+
+</div>
+<div class="lin-1-1"></div>
+
+
+  </div>
+  <img src="./img-amazing/img-top-band-slider-2/svgexport-31.svg" alt="">
+  بیشترین تخفیف
+  جدیدترین
+
+
+
+  .top-nevr-1{
+    margin: 0 auto;
+    width: 98%;
+    
+    height: 450px;
+    background-color: #595959;
+    }
+    
+    
+    
+    
+    
+    
+    
+    .top-10-{
+    float: left;
+        display: inline-block;
+        width: 16.7%;
+    height:100%;
+    left: 0px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    box-shadow: rgba(0, 0, 0, 0.02) 0 1px 3px 0;
+    cursor: pointer;
+    line-hepadding: calc(.875rem - 1px) calc(1.5rem - 1px);
+    margin: 0;
+    min-height: 1rem;
+    padding: calc(.875rem - 1px) calc(1.5rem - 1px);
+    position: relative;
+    text-decoration: none;
+    transition: all 50ms;
+    transition: all 50ms;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: baseline;
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      .top-10-:focus {
+        box-shadow: #343434 0 0 0 1.5px inset, rgba(45, 35, 66, .4) 0 2px 4px, rgba(33, 33, 33, 0.3) 0 1px 1px 0px, #161616 0 -3px 0 inset;
+      }
+      
+      .top-10-:hover {
+        box-shadow: rgba(0, 0, 0, 0.4) 0 4px 8px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #595959 0 0px 0 inset;
+        transform: translateY(-2px);
+      }
+    
+
+
+
+
+
+
+
+
+
+
+
+      <!-- HTML !-->
+<button class="button-4" role="button">Button 4</button>
+
+/* CSS */
+.button-4 {
+  appearance: none;
+  background-color: #FAFBFC;
+  border: 1px solid rgba(27, 31, 35, 0.15);
+  border-radius: 6px;
+  box-shadow: rgba(27, 31, 35, 0.04) 0 1px 0, rgba(255, 255, 255, 0.25) 0 1px 0 inset;
+  box-sizing: border-box;
+  color: #24292E;
+  cursor: pointer;
+  display: inline-block;
+  font-family: -apple-system, system-ui, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+  list-style: none;
+  padding: 6px 16px;
+  position: relative;
+  transition: background-color 0.2s cubic-bezier(0.3, 0, 0.5, 1);
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: middle;
+  white-space: nowrap;
+  word-wrap: break-word;
+}
+
+.button-4:hover {
+  background-color: #F3F4F6;
+  text-decoration: none;
+  transition-duration: 0.1s;
+}
+
+.button-4:disabled {
+  background-color: #FAFBFC;
+  border-color: rgba(27, 31, 35, 0.15);
+  color: #959DA5;
+  cursor: default;
+}
+
+.button-4:active {
+  background-color: #EDEFF2;
+  box-shadow: rgba(225, 228, 232, 0.2) 0 1px 0 inset;
+  transition: none 0s;
+}
+
+.button-4:focus {
+  outline: 1px transparent;
+}
+
+.button-4:before {
+  display: none;
+}
+
+.button-4:-webkit-details-marker {
+  display: none;
+}
+
+
+
+
+appearance: none;
+background-color: #FAFBFC;
+border: 1px solid rgba(27, 31, 35, 0.15);
+border-radius: 6px;
+box-shadow: rgba(27, 31, 35, 0.04) 0 1px 0, rgba(255, 255, 255, 0.25) 0 1px 0 inset;
+box-sizing: border-box;
+color: #24292E;
+cursor: pointer;
+display: inline-block;
+font-family: -apple-system, system-ui, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+font-size: 14px;
+font-weight: 500;
+line-height: 20px;
+list-style: none;
+padding: 6px 16px;
+position: relative;
+transition: background-color 0.2s cubic-bezier(0.3, 0, 0.5, 1);
+user-select: none;
+-webkit-user-select: none;
+touch-action: manipulation;
+vertical-align: middle;
+white-space: nowrap;
+word-wrap: break-word;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.top-svg-1--1-1--1{
+  width:100%;
+  height: 80px;
+  background-color: tan;
+  position: relative;
+  top: 35px;
+  img{
+   width: 13%;
+  position: relative;
+  top: 10px;
+  
+  right: 20px;
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  }
+  
+  
+  
+  .w05-img-img-05{
+     top: 13px;
+      width: 740px;
+      height: 25px;
+      background-color: rgb(119, 71, 71);
+      position: relative;
+  right: 25px;
+  
+  }
+      
+  .band-top-1-1-2{
+  display: inline-block;
+      width: 210px;
+  height: 100%;
+  border-left: 1px solid lightgray;
+  position: relative;
+  top: -3px;
+  p{
+  font-size: 14px;
+  position: relative;
+  left: -5px;
+  font-weight: 100;
+  color: lightgray;
+  top: -2px;
+  }
+  
+  }
+  
+  
+  
+  .band-top-1-1-3{
+  width: 280px;
+  height: 100%;
+  display: inline-block;
+  position: relative;
+  top: -7px;
+  p{
+  
+      font-size: 14px;
+      position: relative;
+      left: -25px;
+      font-weight: 100;
+      color: lightgray;
+      top: 2px;
+  
+  }
+  }
+  
+  
+  
+  
+  
+  .band-top-1-1-2-1{
+  position: relative;
+      display: inline-block;
+      width: 130px;
+  height: 100%;
+  border-left: 1px solid lightgray;
+  top: -3px;
+  
+  p{
+      font-size: 14px;
+      position: relative;
+      left: -35px;
+      font-weight: 100;
+      color: lightgray;
+              top: -1px;
+  
+  
+  }
+  }
+  
+  
+  
+  
+  
+  .top-rt02-2-button{
+  background-color: yellow;
+  width: 200px;
+  height: 50px;
+  position: relative;
+  right:1300px ;
+  top: -40px;
+  
+  button{
+  position: relative;
+  top: 10px;
+  width: 150px;
+  height: 40px;
+  top: 5px;
+  right:20px ;
+  border-radius: 8px;
+  border: 1px solid lightgray;
+  cursor: pointer;
+  
+  p{
+  color: rgb(145, 144, 144);
+  
+  }
+  
+  }
+  
+  
+  
+  .img-rt02-2-button{
+  position: relative;
+  
+  right: -20px !important;
+  }
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <div class="top-0root-1-2-12-2">
+
+
+    <div class="top-svg-1--1-1--1">
+      
+    <img src="./img-amazing/top-and-bnd-3/digikala - دیجی کالا.svg" alt="">
+    
+    <div class="w05-img-img-05" >
+    
+    <div class="band-top-1-1-2">
+      <p>تلفن پشتیبانی ۶۱۹۳۰۰۰۰ - ۰۲۱  </p>
+    </div>
+    
+    <div class="band-top-1-1-2-1">
+      <p>۰۲۱-۹۱۰۰۰۱۰۰  </p>
+    </div>
+    
+    <div class="band-top-1-1-3">
+    <p>
+      ۷ روز هفته، ۲۴ ساعته پاسخگوی شما هستیم</p>
+    </div>
+    
+    
+    </div> 
+    
+    
+    
+    
+    
+    
+    <div class="top-rt02-2-button">
+    
+      <button  class="button-4"  type="button">
+      <p>   بازگشت به بالا</p>
+    
+    </button>
+    <img class="img-rt02-2-button" src="./img-amazing/top-and-bnd-3/svgexport-41.svg" alt="">
+    </div>
+      
+    
+    
+    </div>
+      
+    
+    
+    
+      
+      </div>
+      
+      
+      
+    
+    
+    
+    
+    </div>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    .top-0root-1-2-12{
+      display: flex;
+      width: 100%;
+      
+      height: 150px;
+      
+      background-color: rgb(106, 209, 213) !important;
+      position: relative;
+      top: 45px;
+      border-top:1px solid lightgray ;
+      }
+      
+      
+      
+      
+      
+      .top-svg-1--1-1--1{
+          width:100%;
+          height: 80px;
+          background-color: tan;
+          position: relative;
+          top: 35px;
+          img{
+           width: 13%;
+          position: relative;
+          top: 10px;
+          
+          right: 20px;
+          }
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          }
+          
+          
+          
+          .w05-img-img-05{
+             top: 13px;
+              width: 740px;
+              height: 25px;
+              background-color: rgb(119, 71, 71);
+              position: relative;
+          right: 25px;
+          
+          }
+              
+          .band-top-1-1-2{
+          display: inline-block;
+              width: 210px;
+          height: 100%;
+          border-left: 1px solid lightgray;
+          position: relative;
+          top: -3px;
+          p{
+          font-size: 14px;
+          position: relative;
+          left: -5px;
+          font-weight: 100;
+          color: lightgray;
+          top: -2px;
+          }
+          
+          }
+          
+          
+          
+          .band-top-1-1-3{
+          width: 280px;
+          height: 100%;
+          display: inline-block;
+          position: relative;
+          top: -7px;
+          p{
+          
+              font-size: 14px;
+              position: relative;
+              left: -25px;
+              font-weight: 100;
+              color: lightgray;
+              top: 2px;
+          
+          }
+          }
+          
+          
+          
+          
+          
+          .band-top-1-1-2-1{
+          position: relative;
+              display: inline-block;
+              width: 130px;
+          height: 100%;
+          border-left: 1px solid lightgray;
+          top: -3px;
+          
+          p{
+              font-size: 14px;
+              position: relative;
+              left: -35px;
+              font-weight: 100;
+              color: lightgray;
+                      top: -1px;
+          
+          
+          }
+          }
+          
+          
+          
+          
+          
+          .top-rt02-2-button{
+          background-color: yellow;
+          width: 200px;
+          height: 50px;
+          position: relative;
+          right:1300px ;
+          top: -40px;
+          
+          button{
+          position: relative;
+          top: 10px;
+          width: 150px;
+          height: 40px;
+          top: 5px;
+          right:20px ;
+          border-radius: 8px;
+          border: 1px solid lightgray;
+          cursor: pointer;
+          
+          p{
+          color: rgb(145, 144, 144);
+          
+          }
+          
+          }
+          
+          
+          
+          .img-rt02-2-button{
+          position: relative;
+          
+          right: -20px !important;
+          }
+          }
+      
+      
+      
+      
+      
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+
+.top-0root-1-2-12{
+  display: flex;
+  width: 100%;
+  
+  height: 150px;
+  
+  background-color: rgb(106, 209, 213) !important;
+  position: relative;
+  top: 45px;
+  border-top:1px solid lightgray ;
+  }
+  
+  
+  
+  
+  
+  .top-svg-1--1-1--1{
+      width:100%;
+      height: 80px;
+      background-color: tan;
+      position: relative;
+      top: 35px;
+      img{
+       width: 13%;
+      position: relative;
+      top: 10px;
+      
+      right: 20px;
+      }
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      }
+      
+      
+      
+      .w05-img-img-05{
+         top: 13px;
+          width: 740px;
+          height: 25px;
+          background-color: rgb(119, 71, 71);
+          position: relative;
+      right: 25px;
+      
+      }
+          
+      .band-top-1-1-2{
+      display: inline-block;
+          width: 210px;
+      height: 100%;
+      border-left: 1px solid lightgray;
+      position: relative;
+      top: -3px;
+      p{
+      font-size: 14px;
+      position: relative;
+      left: -5px;
+      font-weight: 100;
+      color: lightgray;
+      top: -2px;
+      }
+      
+      }
+      
+      
+      
+      .band-top-1-1-3{
+      width: 280px;
+      height: 100%;
+      display: inline-block;
+      position: relative;
+      top: -7px;
+      p{
+      
+          font-size: 14px;
+          position: relative;
+          left: -25px;
+          font-weight: 100;
+          color: lightgray;
+          top: 2px;
+      
+      }
+      }
+      
+      
+      
+      
+      
+      .band-top-1-1-2-1{
+      position: relative;
+          display: inline-block;
+          width: 130px;
+      height: 100%;
+      border-left: 1px solid lightgray;
+      top: -3px;
+      
+      p{
+          font-size: 14px;
+          position: relative;
+          left: -35px;
+          font-weight: 100;
+          color: lightgray;
+                  top: -1px;
+      
+      
+      }
+      }
+      
+      
+      
+      
+      
+      .top-rt02-2-button{
+      background-color: yellow;
+      width: 200px;
+      height: 50px;
+      position: relative;
+      right:1300px ;
+      top: -40px;
+      
+      button{
+      position: relative;
+      top: 10px;
+      width: 150px;
+      height: 40px;
+      top: 5px;
+      right:20px ;
+      border-radius: 8px;
+      border: 1px solid lightgray;
+      cursor: pointer;
+      
+      p{
+      color: rgb(145, 144, 144);
+      
+      }
+      
+      }
+      
+      
+      
+      .img-rt02-2-button{
+      position: relative;
+      
+      right: -20px !important;
+      }
+      }
+  
+  
+
+
+
+  
+
+    
+    
+    
+    
+    
+      outline:none;
+      <img class="d-c-c-c-c-c-c-c-c-c--1-1-1-" src="./img-amazing/root-band-r-s-w-3-2/footerlogo2.webp" alt="">
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      یک خرید اینترنتی مطمئن نیازمند فروشگاهی است که بتواند کالاهایی متنوع با کیفیت و دارای قیمت مناسب را در مدت زمانی کوتاه به دست مشتریان خود برساند و ضمانت بازگشت کالا هم داشته باشد؛
+      ویژگیهایی که فروشگاه اینترنتی دیجی کالا سالهاست بر روی آنها کار کرده و توانسته از این طریق مشتریان ثابت خود را داشته باشد.
+      یکی از مهم ترین دغدغه های کاربران دیجی کالا با هر فروشگاه اینترنتی دیگری این است که کالای خریداری شده چه زمانی به دستشان می رسد دیجی کالا شیوه های مختلفی از ارسال را متناسب با فروشنده کالا مقصد کالا
+    
+    
+    
+    
+    
+    
+    
+
+
+
+
+
+
+
+
+      
+
+.nav-2{
+  width: 56%;
+  height: 40px;
+  background-color: aqua;
+margin-top: px;
+  display: flex;
+  margin-right: 160px;
+  align-items: center;
+  justify-content: space-evenly ;
+  line-height: 10px;
+  a{
+    position: relative;
+    font-family: var(--font-family);
+             font-size: 12px;
+        text-decoration: none;
+          color: #a1a3a8;
+         img{
+          width: 18px;
+          height: 18px;
+          position: relative;
+          top: 5px;
+          color: #a1a3a8;
+         }
+         i{
+          position: relative;
+          top: -2px;
+         }
+  }
+  .a1manu{
+      position: relative;
+          top: 5px;
+  }
+  a:after{
+       content: "";
+       position: absolute;
+       background-color: #ed1944;
+         height: 2px;
+         width: 0;
+         left: 0;
+         bottom: -10px;
+   transition: 0.3s;
+  }
+  a:hover:after{
+      width: 100%;
+              
+
+  }
+
+
+
+
+}
+
+
+
+
+
+.aaaaaaaaaa1{
+position: absolute;
+top: 5px;
+
+}
+
+
+
+
+
+.laft-top-icon-{
+
+width: 170px;
+height: 30px;
+background-color: #e5cfbc;  
+position: relative;
+top: 7px;
+right: 310px;
+border-radius: 15px;
+
+
+i{
+  position: relative;
+  top: 4px;
+  color: #f57f17;
+right: 10px;
+width: 30px;
+}
+  
+}
+
+
+.laft-top-icon-a{
+
+  a{
+      color: #f57f17;
+              text-decoration: none;
+              font-family: var(--font-family);
+          position: relative;
+          top: -20px;
+          font-size: 14px;
+
+          right:  30px;
+
+  }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+.top-gif{
+width: 100%;
+height: 60px;
+background-color: #ed1944;
+margin-top: 0.6px;
+
+img{
+margin-right: 450px;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="but-top-amazing">
+
+  <nav class="nav-2">
+      <a href="https://www.digikala.com/incredible-offers/">
+        <img src="./svg.amazing/tkfif.svg" class="imgtkfif" alt="">
+      
+        شگفت انگیزها
+      </a>
+      
+      
+      
+      <a class="a1manu" href="https://www.digikala.com/fresh/">
+        <i class="fa fa-shopping-basket" aria-hidden="true" id="basket"></i>
+      
+        
+        سوپر مارکت
+      </a>
+      
+      
+      
+      <a href="https://www.digikala.com/main/dk-ds-gift-card/">
+        <img src="./svg.amazing/kart.svg" class="imgtkfif" alt="">
+      
+        کارت هدیه </a>
+      
+      
+      <a href="https://www.digikala.com/best-selling/">
+      
+        <img src="./svg.amazing/vaqs.svg" class="imgtkfif" alt="">
+      
+        پرفروش ترین ها
+      </a>
+      
+      
+      
+      <a href="https://www.digikala.com/promotion-center/">
+        <img src="./svg.amazing/svgexport-8.svg"  class="imgtkfif1" alt="">        
+      
+        تخفیف ها و پیشنهادها
+      </a>
+      
+      
+      
+      <a  class="aaaaaaaaaa1" href="https://www.digikala.com/faq/">
+      
+        سوالی دارید؟
+      </a>
+      
+      
+      <a  class="aaaaaaaaaa1"  href="https://www.digikala.com/landings/seller-introduction/">
+      
+        در دیجی کالا بفروشید!
+      </a>
+      
+      </nav>
+
+
+      
+
+
+
+
+
+      .nav-menu{
+        box-sizing: border-box;
+        width: fit-content;
+        height: 100%;
+        z-index: 3;
+ 
+ 
+        }

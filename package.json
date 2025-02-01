@@ -1,0 +1,19 @@
+{  
+  "name": "digikala",
+  "version": "1.0.0",
+  "description": "digikala test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "TA",
+  "license": "ISC",
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "bootstrap": "^5.3.3",
+    "swiper": "^11.1.14"
+  }
+}

@@ -1,0 +1,226 @@
+
+.All-amazing-top{
+margin-top: -10px;
+width: 100%;
+height: 50px;
+
+h3{
+    font-family: var(--font-family);
+
+  position: relative;  
+  top: 14px;
+font-weight: normal;
+    }
+}
+
+
+
+.All-amazing{
+width: 98%;
+height: 40px;
+margin: 30px auto;
+
+
+.top-manu-amazing-1{
+    position: relative;
+right: 130px;
+width: 110px;
+height: 39px;
+
+img{
+   position: relative;
+   top: 8px;
+}
+
+p{
+    font-family: var(--font-family);
+
+position: relative;
+top: -23px;
+right: 38px;
+font-size: 14px;
+
+}
+}
+
+
+.top-manu-amazing-2{
+    position: relative;
+    right: 260px;
+    width: 110px;
+    height: 39px;
+  top: -39px;
+
+
+
+
+  p{
+    font-family: var(--font-family);
+
+position: relative;
+right: 20px;
+font-size: 14px;
+top: 5px;
+color: gray;
+}
+
+
+
+
+}
+
+.top-manu-amazing-3{
+
+    position: relative;
+    right: 380px;
+    width: 110px;
+    height: 39px;
+  top: -78px;
+
+
+}
+
+
+.top-manu-amazing-4{
+    position: relative;
+    right: 505px;
+    width: 110px;
+    height: 39px;
+  top: -117px;
+
+
+
+}
+
+
+
+.top-manu-amazing-5{
+
+    position: relative;
+    right: 630px;
+    width: 110px;
+    height: 39px;
+  top: -156px;
+
+
+
+}
+
+
+.top-manu-amazing-6{
+    
+    position: relative;
+    right: 750px;
+    width: 110px;
+    height: 39px;
+  top: -195px;
+
+
+}
+
+.top-manu-amazing-7{
+    position: relative;
+    right: 870px;
+    width: 110px;
+    height: 39px;
+  top: -234px;
+
+
+
+}
+
+
+
+.top-manu-amazing-8{
+
+
+    position: relative;
+    right: 990px;
+    width: 110px;
+    height: 39px;
+  top: -273px;
+
+
+
+
+}
+
+
+
+
+.top-manu-amazing-9{
+
+
+    position: relative;
+    right: 1110px;
+    width: 110px;
+    height: 39px;
+  top: -312px;
+
+
+
+
+}
+
+
+
+.top-manu-amazing-10{
+
+
+    position: relative;
+    right: 1230px;
+    width: 110px;
+    height: 39px;
+  top: -351px;
+
+
+
+
+}
+
+
+
+.top-manu-amazing-11{
+
+
+    position: relative;
+    right: 1390px;
+    width: 90px;
+    height: 39px;
+  top: -390px;
+
+
+
+
+}
+
+
+}
+
+
+
+
+
+
+
+
+
+.p-amazing-3{
+    font-family: var(--font-family);
+    font-size: 14px;
+    color: gray;
+position: relative;
+top: 4px;
+right: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+

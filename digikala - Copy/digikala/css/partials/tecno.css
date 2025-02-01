@@ -1,0 +1,224 @@
+.tecno{
+width: 100%;
+height: 150px;
+
+margin-top: 5px;
+display: flex;
+.tecno-baes {
+
+width: 85%;
+height: 110px;
+background-color: black;
+display:flex ;
+margin: 0 auto;
+margin-top: 15px;
+border-radius: 20px;
+background-color: rgb(236, 238, 238);
+
+  .tecnolif1{
+  display: flex;
+  margin: 20px 30px;
+
+  }
+
+   .tecnolif2{
+display: inline-block;
+margin-top: 45px;
+
+   }
+           .tecnolif3{
+            display: flex;
+              width: 110px;;
+            height: 30px;
+            background-color:#029a49;
+       margin: 46px 28px;
+       border-radius: 50px;
+
+       font-family: var(--font-family);
+.tecnolia{
+    display: inline-block;
+margin: -3px 20px;
+
+justify-content: center;
+color:white ;
+
+}
+
+ } 
+
+
+
+ .tecno-1 {
+width: 70px;
+height: 70px;
+border-radius: 50px;
+background-color: #029a49;
+display: flex;
+margin: 23px 175px;
+
+font-family: var(--font-family);
+ }
+
+
+ .tecno-11{
+display:block ;
+width: 35px;
+height: 25px;
+background-color: crimson;
+margin: 45px -75px 0px;
+border-radius: 20px;
+.tecnolia11{
+display: flex;
+margin-top: -5px;
+
+margin:-3px 3px;
+color: white;
+}
+
+
+
+ }
+ 
+}
+.tecno-1-img{
+width: 100%;
+height: 100%;
+
+    display: flex;
+    border-radius: 50px;
+}
+
+.tecno-2{
+
+    width: 70px;
+height: 70px;
+border-radius: 50px;
+background-color: #029a49;
+display: flex;
+margin: 23px -170px ;
+
+font-family: var(--font-family);
+
+
+}
+
+.tecno-2-img{
+    width: 100%;
+    height: 100%;
+    
+        display: flex;
+        border-radius: 50px;
+
+
+}
+
+
+
+.tecno-22{
+    display: flex;
+        width: 35px;
+        height: 25px;
+background-color: crimson;
+border-radius: 50px;
+    margin: 69px 92px;
+    font-family: var(--font-family);
+    .tecnolia22{
+display: block;
+margin: -4px 5px;
+font-family: var(--font-family);
+color: white;
+    }
+    
+    }
+
+}
+
+.tecno-3{
+    width: 70px;
+    height: 70px;
+    border-radius: 50px;
+    background-color: #029a49;
+    display: flex;
+    margin: 23px -42px  -190px ;
+    
+    font-family: var(--font-family);
+    
+
+
+
+}
+
+
+.tecno-33{
+
+
+    display: flex;
+    width: 35px;
+    height: 25px;
+background-color: crimson;
+border-radius: 50px;
+
+font-family: var(--font-family);
+margin: 70px -40px;
+
+
+.tecnolia33{
+    color: white;
+display: block;
+margin:-4px 3px;
+    font-family: var(--font-family);
+}
+
+}
+
+
+.tecno-4{
+
+    width: 70px;
+height: 70px;
+border-radius: 50px;
+background-color: #029a49;
+display: flex;
+margin: 23px 95px ;
+
+font-family: var(--font-family);
+
+
+}
+.tecno-44{
+
+    display: flex;
+    width: 35px;
+    height: 25px;
+background-color: crimson;
+border-radius: 50px;
+
+font-family: var(--font-family);
+margin: 70px -173px;
+.tecnolia44{
+    color: white;
+display: block;
+margin:-4px 3px;
+    font-family: var(--font-family);
+}
+
+
+
+}
+
+
+
+
+.tecno-5{
+
+
+    width: 70px;
+    height: 70px;
+    border-radius: 50px;
+    background-color: #029a49;
+ margin: 30px 400px;
+    
+    font-family: var(--font-family);
+
+}
+

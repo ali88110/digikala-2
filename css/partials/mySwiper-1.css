@@ -1,0 +1,125 @@
+
+
+
+.band220{
+       
+  display: block;
+
+  width: 85%;
+   border-radius: 15px;
+  height: 210px;
+  margin: 0 auto;
+border: 1px solid rgb(189, 182, 182);
+
+
+  .band220-20{
+    margin: 20% ;
+     height: 35px;       
+     
+     margin: 0 auto;
+
+     display: flex;
+     border-radius: 15px;
+
+     h2{
+
+         display: flex;
+       font-family: var(--font-family);
+         margin: -5px -50px;
+           font-weight: normal;
+         
+         padding-right: 55px;
+     }
+
+     img{
+       display: flex;
+         width: 23px;
+         
+         height: 23px;
+         margin-top: 12px;
+           margin-right: 550px;
+             
+
+                            
+     }
+
+   
+
+
+
+
+
+
+
+  } 
+
+
+
+
+
+  }
+
+
+
+
+.siwpar-band{
+width: 100%;
+margin-bottom: 1px;
+height: 150px;
+margin: 28px -20px;
+.swiper {
+  width: 90%;
+  height: 90%;
+
+}
+
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  background: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  swiper-slide-logo{
+width: inherit;
+height: inherit;
+background-color: aqua;
+  }
+
+}
+
+.swiper-slide img {
+
+  width: 120px !important;
+  height: 120px !important;
+
+  
+margin-right: 20px;
+
+  border-left: 1px solid rgb(160, 154, 154);
+}
+
+.band-siwpr{
+margin: 10px 70px;
+display: flex;
+width: 1px;
+height:120px;
+background-color:rgb(165, 164, 164);
+margin-top: 0px ;
+margin-left: -200px;
+
+
+}
+
+img{
+  display: inline-block;
+margin: 0 auto;
+
+object-position: 10px;
+}
+
+
+
+}
+

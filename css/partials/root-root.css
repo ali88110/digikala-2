@@ -1,0 +1,27 @@
+.top-band-3030{
+width: 16.4%;
+height: 100%;
+display: inline-block;
+border-right:1px solid #d7d7da ;
+img{
+    display: block;
+    margin: 15px;
+    margin-right: 80px;
+    width: 90px;
+    height: 90px;
+    }
+}
+.top-band-4040{
+    width: 12.2%;
+    height: 100px;
+    display: inline-block;
+
+    border-right:1px solid #d7d7da ;
+    img{
+        display: block;
+        margin: 15px;
+        margin-right: 50px;
+        width: 90px;
+        height: 90px;
+        }
+    }

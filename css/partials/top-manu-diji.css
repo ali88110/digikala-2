@@ -1,0 +1,577 @@
+.top-manu-diji{
+    z-index: 2;
+    width: 100%;
+    height: 40px;
+position: absolute;
+    .nav-2{
+        width: 56%;
+        height: 40px;
+    margin-top: -40px;
+        display: flex;
+        margin-right: 160px;
+        align-items: center;
+        justify-content: space-evenly ;
+        line-height: 10px;
+        a{
+          position: relative;
+          font-family: var(--font-family);
+                   font-size: 12px;
+              text-decoration: none;
+                color: #a1a3a8;
+               img{
+                position: relative;
+                top: 5px;
+               }
+               i{
+                position: relative;
+                top: -2px;
+               }
+        }
+        .a1manu{
+            position: relative;
+                top: 5px;
+        }
+        a:after{
+             content: "";
+             position: absolute;
+             background-color: #ed1944;
+               height: 2px;
+               width: 0;
+               left: 0;
+               bottom: -10px;
+         transition: 0.3s;
+        }
+        a:hover:after{
+            width: 100%;
+                    
+
+        }
+    }
+
+}
+
+
+
+
+.aaaaaaaaaa1{
+position: absolute;
+top: 5px;
+
+}
+.nav-1{
+position: relative;
+width: 10%;
+height: 40px;
+a:after{
+    content: "";
+    position: absolute;
+    background-color: #ed1944;
+      height: 1.8px;
+      width: 0;
+      left: 0;
+      bottom: -10px;
+transition: 0.3s;
+top: 30px;
+}
+a:hover:after{
+   width: 120px;
+           
+
+}
+img{
+    position: relative;
+    top:13px;
+    right: 20px;
+}
+a{
+    width: 60px;
+    height: 30px;
+text-decoration: none;
+    font-size: 15px;
+    font-family: var(--font-family);
+position: relative;
+right: 25px;
+top: 4px;
+color: black;
+}
+}
+
+
+
+
+.nav-1 ul li{
+    height: 160px;
+    position: relative;
+    display: block;
+    width: 500px;
+height: 60%;
+
+}
+
+
+.manu-top-navar{
+    width: 10%;
+    height: 40px;
+    
+    .nav-manu{
+    
+    width: 100%;
+    
+    height: 100%;
+    box-sizing: border-box;
+       }
+    
+    
+    .nav-item{
+    width: fit-content;
+    height: 100%;
+    margin: 0 auto;
+    
+    
+    
+    
+    }
+    
+    .a-link-top{
+    width: fit-content;
+    height: 100%;
+    color: black;
+    font-size: 16PX;
+    line-height: 40px;
+    text-decoration: none;
+    font-family: var(--font-family);
+
+    
+    
+    }
+    
+    .sub-manu-top-item-das1{
+        font-family: var(--font-family);
+      
+    position: absolute;
+    width: 65vw;
+    text-decoration: none;
+    display: none;
+    background-color: #ffffff;
+    top: 50px;
+    transition: 10ms;
+    height: 80vh; 
+    
+    
+    .sub-manu-top-item-das2{
+        color: #37191f;
+        text-decoration:none ;
+        font-family: var(--font-family);
+        font-size: 14px;
+       direction: ltr;
+       overflow: auto;
+    
+       .nav-menu{
+       box-sizing: border-box;
+       width: fit-content;
+       height: 100%;
+       z-index: 3;
+
+
+
+       
+    width: 18%;
+    height: 100%;
+    background-color: bisque;
+    .submenu-item{
+    width: 100%;
+    height: 40px;
+background-color: #F0F0F1;    
+    
+    &:hover{
+        display: block;
+    
+        }
+       } 
+      }
+     }
+    
+    .sub-manu-link-des2{
+    text-decoration: none;
+    position: relative;
+    left: 95px;
+    top: 10px;
+    
+    
+    
+    
+    }
+    .sub-manu-link-des-mino-3{
+       direction: ltr;
+    overflow: auto;
+       width: 80%;
+       height: 100%;
+       position: absolute;
+       top: 0;
+       left: 0;
+       display: none;
+    }
+    
+    .sub-manu-link-des3{
+       text-decoration: none;
+    position: relative;
+    left: 120px;
+    top: 10px;
+    
+    }
+    
+   
+    
+    
+    
+    
+    .manu-top-navar:after{
+        content: "";
+        position: absolute;
+        background-color: #ed1944;
+          height: 1.8px;
+          width: 0;
+          left:1000;
+          bottom: -10px;
+    transition: 0.3s;
+    top: 48px;
+    }
+    .manu-top-navar:hover:after{
+       width: 152px;
+               
+    
+    }
+    }
+    
+    &:hover .sub-manu-top-item-das1 {
+    
+       display: block;
+       }
+       .sub-manu-link-des3-menu1{
+          width: 80%;
+          height: 100%;
+       position: absolute;
+       top: 0;
+       left: 0;
+       }
+
+
+       .phone-img-manu{
+        display: flex;
+           margin-top: -12px;
+margin-left: 165px;       
+ width: 20px;
+       }
+
+  .sub-manu-top-item-das2 :hover {
+    color:#ED1944;
+
+
+  }
+  .sub-manu-link-des3{
+
+    color: #37191f;
+  }
+ 
+
+  .nav-item :after{
+    content: "";
+    position: absolute;
+    background-color: #ed1944;
+      height: 1.8px;
+      width: 0;
+      left:1380px;
+      bottom: -10px;
+transition: 0.3s;
+top: 38px;
+}
+.nav-item :hover:after{
+   width: 120px;
+           
+
+}
+
+
+
+.top-band-20202020{
+    position: relative;
+width: 1px;
+height: 20px;
+left: 0px;
+right: 157px;
+top: -200px;
+z-index: 2;
+}
+
+.top-band-20202020-30{
+    position: relative;
+width: 1px;
+height: 18px;
+left: 0px;
+right:765px;
+top: -220px;
+z-index: 2;
+}
+
+
+
+.sub-manu-link-des3-menu1-navar{
+    position: relative;
+    top: 20px;
+width: 140px;
+height: 30px;
+cursor: pointer;
+display: block;
+
+img{
+    width: 25px;
+    position: relative;
+    top: 5px;
+    right: 100px;
+}
+}
+.a-topdas-1-1{
+    font-size: 12px;
+    cursor: pointer;
+text-decoration: none;
+color: aqua;
+position: relative;
+top: -8px;
+right:  -20px;
+}
+
+
+
+.top-manu-navbar-1-1-1{
+width: 220px;
+height: 40px;
+position: relative;
+top: 28px;
+
+
+a{
+    text-decoration: none;
+    margin-top: 1px;
+   margin-right: 20px;
+}
+
+
+
+.top-band-abs1-20{
+
+    width: 2px;
+    height: 20px;
+    background-color: #ED1944;
+    position: relative;
+    top: -24px;
+    right: 12px;
+
+    }
+
+
+
+
+}
+
+#i-top-lain{
+    font-size: 10px;
+    position: relative;
+    right: 212px;
+    top: 1px;
+}
+
+
+.top-manu-navbar-1-1-2{
+    width: 180px;
+    height: 40px;
+    position: relative;
+    top: -12px;
+    right: 250px;
+
+
+a{
+    position: relative;
+    right: 10px;
+    text-decoration: none;
+}
+
+    
+.top-band-abs1-20{
+
+    width: 2.4px;
+    height: 20px;
+    background-color: #ED1944;
+    position: relative;
+    top: -24px;
+    right: 12px;
+
+    }
+
+}
+
+
+#i-top-lain-1{
+    font-size: 10px;
+    position: relative;
+    right: 155px;
+    top: 1px;
+}
+
+
+
+
+
+.top-manu-navbar-1-1-3{
+    width: 160px;
+    height: 40px;
+    position: relative;
+    top: -52px;
+    right: 460px;
+
+
+a{
+    position: relative;
+    right: 10px;
+    text-decoration: none;
+}
+
+    
+.top-band-abs1-20{
+
+    width: 2.4px;
+    height: 20px;
+    background-color: #ED1944;
+    position: relative;
+    top: -24px;
+    right: 12px;
+
+    }
+
+}
+
+
+#i-top-lain-2{
+    font-size: 10px;
+    position: relative;
+    right: 137px;
+    top: 1px;
+}
+
+
+
+
+
+
+
+
+
+
+.top-manu-navbar-1-1-4{
+    width: 110px;
+    height: 40px;
+    position: relative;
+    top: -92px;
+    right: 670px;
+
+
+a{
+    position: relative;
+    right: 10px;
+    text-decoration: none;
+}
+
+    
+.top-band-abs1-20{
+
+    width: 2.4px;
+    height: 20px;
+    position: relative;
+    top: -24px;
+    right: 12px;
+
+    }
+
+}
+
+
+#i-top-lain-3{
+    font-size: 10px;
+    position: relative;
+    right: 97px;
+    top: 1px;
+}
+
+.butom-1-1-1{
+top: -85px;
+    position: relative;
+    width: 222px;
+    height: 450px;
+    .butom-2-1-1{
+        width: 100%;
+        height: 35px;
+        display: block;
+
+        margin-top: 5px;
+        a{
+          
+            position: relative;
+            text-decoration: none;
+            margin-right: 20px;
+            font-size: 14px;
+              color: #dedadb;
+        }
+    }
+
+}
+
+.top-x{
+    position: relative;
+    text-decoration: none;
+    margin-right: 20px;
+    font-size: 14px;
+    top: 10px;
+}
+
+
+
+
+.butom-3-1-1{
+    top: -436px;
+    position: relative;
+    width: 190px;
+    height: 450px;
+         right: 245px;
+
+    
+
+
+}
+
+
+.butom-4-1-1{
+    top: -436px;
+    position: relative;
+    width: 170px;
+    height: 445px;
+         right: 210px;
+
+
+
+
+
+}
+
+.top-manu-navbar-1-1-5{
+
+    top: -885px;
+    position: relative;
+    width: 170px;
+    height: 445px;
+         right: 410px;
+
+
+}
+
+
+
+

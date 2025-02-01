@@ -1,0 +1,73 @@
+.Therootoftheendofthesecondpart{
+
+height: 45px;
+    width: 100%;
+
+
+    .p-root-end2{
+     width: 10%;
+     height: 100%;
+    margin-right: 116px;
+    display: inline-block;
+position: relative;
+top: 5px;
+font-family: var(--font-family);
+font-weight: normal;
+font-size: 12px;
+    }
+
+    .p-root-end3{
+        width: 10%;
+        height: 100%;
+       margin-right: 130px;
+       display: inline-block;
+   position: relative;
+   top: 5px;
+   font-family: var(--font-family);
+   font-weight: normal;
+   font-size: 12px;
+       }
+
+       .p-root-end4{
+        width: 10%;
+        height: 100%;
+       margin-right: 130px;
+       display: inline-block;
+   position: relative;
+   top: 5px;
+   font-family: var(--font-family);
+   font-weight: normal;
+   font-size: 12px;
+       }
+       
+
+
+
+
+       .p-root-end5{
+        width: 10%;
+        height: 100%;
+       margin-right: 115px;
+       display: inline-block;
+   position: relative;
+   top: 5px;
+   font-family: var(--font-family);
+   font-weight: normal;
+   font-size: 12px;
+       }
+
+
+       
+       .p-root-end6{
+        width: 10%;
+        height: 100%;
+       margin-right: 147px;
+       display: inline-block;
+   position: relative;
+   top: 5px;
+   font-family: var(--font-family);
+   font-weight: normal;
+   font-size: 12px;
+       }
+
+}

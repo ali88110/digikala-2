@@ -1,0 +1,126 @@
+.base{
+margin-top: 50px;
+width:100% ;
+height: 850px;
+    display: block;
+border-top: 1px solid;
+border: 0.1px solid #EEEEEF;
+
+.buottm-end{
+
+    
+    
+    
+    .button-39 {
+width: 140px;
+height: 40px;
+border-radius: 8px;
+border: 1px solid #DFDFDF;
+background-color:#ffffff;
+margin-right: 1355px;
+margin-top: -30px;
+position: relative;
+top: -40px;
+font-family: var(--font-family);
+color: #98989c;
+
+i{
+   font-size: 12px;
+    position: relative;
+    right: 10px;
+    }
+    }
+
+    
+  
+}
+
+.logobasetop{
+
+width: 14%;
+margin-right: 30px;
+margin-top: 50px;
+}
+
+
+
+.p-top1and{
+    font-family: var(--font-family);
+display: inline-block;
+font-size: 14px;
+right: 25px;
+position: relative;
+}
+
+.p-top2and{
+    font-family: var(--font-family);
+    display: inline-block;
+top: -40px;
+    font-size: 14px;
+    right:210px;
+    position: relative;
+
+}
+
+.p-top3and{
+    font-family: var(--font-family);
+ margin-top: -83px;
+ margin-right: 300px;
+ top:-38px;
+font-size: 13px;
+}
+
+.p-top1andband{
+width: 10px;
+height: 14px;
+position: relative;
+border-left:1.9px solid rgb(206, 191, 191) ;
+right: 180px;
+top: -20px;
+}
+
+.p-top1andband1{
+
+
+    width: 10px;
+height: 14px;
+position: relative;
+border-left:1.9px solid rgb(206, 191, 191) ;
+right: 280px;
+top: -63px;
+
+}
+
+.top1andServices{
+width: 100%;
+height: 70px;
+margin-top: 55px;
+
+.top1andServices-1{
+
+width: 200px;
+height: 70px;
+display: inline-block;
+margin-right: 80px;
+
+.top1andServices-1-1{
+
+width: 70%;
+height: 81%;
+margin-top: 15px;
+margin-right: 28px;
+
+display: inline-block;
+
+ }
+
+  } 
+  .imgandServices{
+  position: relative;
+  right: 70px;
+  top: 20px;
+    }
+
+    
+}
+}
